@@ -1,0 +1,2 @@
+a=float(input("side of a square: "))
+print("are is = ",a*a)
