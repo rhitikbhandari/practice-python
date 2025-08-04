@@ -1,0 +1,5 @@
+print("hi My name is rhitik my date of birth is ",20,12,2003, sep="/")  ## Output:- hi My name is rhitik my date of birth is /20/12/2003
+
+
+print("hi iam Rhitik Bhandari",end="...")
+print(" Iam from Uttarakhand")               ## output:- hi iam Rhitik Bhandari... Iam from Uttarakhand
