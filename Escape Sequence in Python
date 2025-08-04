@@ -1,0 +1,4 @@
+print("Hi my name is Rhitik Bhandari.\nMy Father Name is Sanjay Singh.") #next line
+print("Your age is:-\t21 years") #tab escape sequence it create a horizontal space 
+print("My Date of Birth is 20 \\12 \\2003") # crete a slah between the numbers or text
+print("He said \"hi\"") # create a double inverted comma between  words or numbers
