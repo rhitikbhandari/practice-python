@@ -1,0 +1,8 @@
+#If- else Conditional
+'''''
+age = int(input("Enter your Age= "))
+if(age>18):
+    print("You are Eligible to Vote.")
+else:
+    print("You ar not Eligible to Vote")    
+'''
