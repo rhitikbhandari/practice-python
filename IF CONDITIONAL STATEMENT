@@ -1,0 +1,6 @@
+# if conditional
+'''''
+age=10
+if(age>18):
+    print("you are eligible to vote")
+'''
