@@ -1,0 +1,11 @@
+# if -elif- else conditional
+'''''
+age= int(input("Enter the Age="))
+if(age>18):
+    print("You are eligible to Drive.")
+elif(age==18):
+    print("You Can appear in the interview ")
+else:
+    print("You are not Eligible to Drive")
+
+'''''
