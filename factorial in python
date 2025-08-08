@@ -1,0 +1,7 @@
+num=int(input("Enter the Number=:"))
+fact=1 # in which the factorial will start 
+for i in range(1,num+1): # it means (1,num+1) shows the value will start from 1 to num +1
+    # 1,2,3,4,5 (num+1)= 6 so it will consider till 5
+    fact*=i#fact=1*1=1 it will store in fact after that it wil mul by 2 the 2 will store
+    #after that 2 mul by 3 the 6 will store in fact and so on..........
+print(f"Factorail of {num} is{fact}")
