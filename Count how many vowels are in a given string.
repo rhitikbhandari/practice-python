@@ -1,0 +1,10 @@
+a=input("Enter a character:")
+vowels =["a","e","i","o","u"] # create a list
+for char in vowels: # it means character in the vowels
+    if a== char: # it means if a (input by user) is == present in char (Vowels)
+        #then it is a vowel
+        print("It is a Vowel")
+        break
+else:
+    print("You've Entered the wrong character:")
+
