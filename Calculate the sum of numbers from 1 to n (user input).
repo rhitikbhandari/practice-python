@@ -1,0 +1,5 @@
+n=int(input("Enter the number"))
+total=0  # we give variable total firstly because we have to store the sum in this variable(total)
+for i in range(1,(n+1)):  
+    total+=i
+print("Sum is",total)
